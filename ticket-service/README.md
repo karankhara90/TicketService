@@ -1,7 +1,10 @@
 
 ##Project 
 * This ticket-service application is used to find, hold, and reserve seats for a venue.
-
+* Seats are named in following manner:
+   A : seat available
+   h : seat on hold
+   x : seat is reserved
 
 ###Features
 * Find available seats in a specific level 
@@ -23,10 +26,6 @@
 	1. either to book only the available seats	
 	2. go back to options, and choose level number and seats again.
 * A seat hold Id will be provided to customer after seats holding and this hold id will be  asked before reserving seats.
-* Seats are named in following manner:
-   A : seat available
-   h : seat on hold
-   x : seat is reserved
 
 
 ## To import and run project on local machine 
