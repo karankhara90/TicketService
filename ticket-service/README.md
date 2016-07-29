@@ -3,18 +3,18 @@
 * This ticket-service application is used to find, hold, and reserve seats for a venue.
 
 
-##Features
+###Features
 * Find available seats in a specific level 
 * Hold and reserve the best available seats 
 
 
-# Dependencies for building project: 
+### Dependencies for building project: 
 * Java SDK 8
 * Maven
 * Git
 
 
-## ASSUMPTIONS:
+### ASSUMPTIONS:
 * Customer will be asked to enter a valid Email Id.
 * Seat held will only be valid for some seconds
 * Used In memory storage, so only one customer can login and book seats 	
