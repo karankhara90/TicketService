@@ -2,9 +2,9 @@
 ##Project 
 * This ticket-service application is used to find, hold, and reserve seats for a venue.
 * Seats are named in following manner:
-   A : seat available
-   h : seat on hold
-   x : seat is reserved
+   * A : seat available
+   * h : seat on hold
+   * x : seat is reserved
 
 ###Features
 * Find available seats in a specific level 
