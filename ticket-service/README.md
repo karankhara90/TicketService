@@ -31,8 +31,8 @@
 ## To import and run project on local machine 
 * Clone project
 * Navigate to the ticket-service directory, then
-*  1. Type: mvn compile
-*  2. Type: mvn package
+    *  Type: mvn compile
+    *  Type: mvn package
 * An executable .jar file will be built inside "target" directory
 
 
