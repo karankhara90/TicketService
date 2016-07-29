@@ -23,8 +23,8 @@
 * Used In memory storage, so only one customer can login and book seats 	
 * If user mentions more than 1 level to find seats, then it checks availability in all the levels until it finds requested number of available seats.
 * If requested number of seats are more than available vacant seats in requested level, then it gives customer 2 options:
-	1. either to book only the available seats	
-	2. go back to options, and choose level number and seats again.
+	* either to book only the available seats	
+	* go back to options, and choose level number and seats again.
 * A seat hold Id will be provided to customer after seats holding and this hold id will be  asked before reserving seats.
 
 
