@@ -1,6 +1,6 @@
 
 ##Project 
-* This ticket-service application is used to find, hold, and reserve seats for a venue.
+* Ticket Service is java application that facilitates the discovery, temporary hold, and final reservation of seats within a high-demand performance venue
 * Seats are named in following manner:
    * A : seat available
    * h : seat on hold
